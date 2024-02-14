@@ -1608,7 +1608,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beuspiel RS-Flip-Flop",
+                        "Beispiel RS-Flip-Flop",
                         "<img src=\"paste-33804b5c5ae47398806d44b5bcdc708bfe53af9d.jpg\">"
                     ],
                     "guid": "p]<V6}hQcy",
@@ -1758,7 +1758,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie kann man bei Schaltungen Kostne reduzieren?",
+                        "Wie kann man bei Schaltungen Kosten  reduzieren?",
                         "Immer das gleiche Logik Gatter verwenden"
                     ],
                     "guid": "Y4E[^l_SY",
@@ -4445,7 +4445,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wann funktioniert eine Multiplikation&nbsp;",
+                        "Wann funktioniert eine Matrix Multiplikation&nbsp;",
                         "Wenn das n der ersten Matrix und das m der zweiten Matrix gleich sind&nbsp;"
                     ],
                     "guid": "B$Uh8WNVS0",
