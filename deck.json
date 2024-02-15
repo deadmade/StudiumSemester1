@@ -278,7 +278,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie kann ich Zahlein zu Binär umformen?",
+                        "Wie kann ich Zahlen zu Binär umformen?",
                         "8 4 2 1<br>1 0 1 0<br><br>Beispiel:<br><br>10 = 1010 -&gt; 8 + 2<br>14 = 1110 -&gt; 8+2+4"
                     ],
                     "guid": "C/`aDvR&s?",
@@ -3127,8 +3127,10 @@
                 "paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg",
                 "paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg",
                 "paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg",
+                "paste-1d40401a10f1fc30e7a7e5f5ef13926ec360a12a.jpg",
                 "paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg",
                 "paste-21a023db291352b161dc1bb35da656189da5f618.jpg",
+                "paste-2366a1ef799062531ca232c8c2adbe0630c616fb.jpg",
                 "paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg",
                 "paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg",
                 "paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg",
@@ -3155,6 +3157,7 @@
                 "paste-595709afcc67c0a923f3c04bbde999e87d8d77e8.jpg",
                 "paste-5d24de5c150ed33e57fc46c46d41b9c3cd5318f1.jpg",
                 "paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg",
+                "paste-633177b5f1e0890f89b413daebe6a02f372ca061.jpg",
                 "paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg",
                 "paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg",
                 "paste-66341160b41aac63d2387c3d7a758125b792f1fa.jpg",
@@ -3170,11 +3173,15 @@
                 "paste-78828043eff80a21471c9bb6b4963c85070d571e.jpg",
                 "paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg",
                 "paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg",
+                "paste-7f5d3835a1cffc3162835607ca6c825aea8aba56.jpg",
+                "paste-808a9184355e9fbe9a382da59fe793aa36256b43.jpg",
+                "paste-8143250ab374c731ef21b24c73bb236b11ef7632.jpg",
                 "paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg",
                 "paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg",
                 "paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg",
                 "paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg",
                 "paste-8c6b92209ad3dfc0a467b95f728a4b590c155862.jpg",
+                "paste-8e33f2d96e97c018d0f4cae05e4c87b5dd260fab.jpg",
                 "paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg",
                 "paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg",
                 "paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg",
@@ -3188,13 +3195,16 @@
                 "paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg",
                 "paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg",
                 "paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg",
+                "paste-bb1bdb8014f5bb2e612b00dcc8f4b2100783ada8.jpg",
                 "paste-c0049a03548af99ab96a86ae395184d84bf6b80b.jpg",
                 "paste-c34f004e2d9c53dcef576af4d148b762de3ff83b.jpg",
                 "paste-c70a81919cc71dc2aa38dd32a5d39a3ff71228c2.jpg",
                 "paste-c74717344c875b7d79bbcee46f687371b945b4be.jpg",
                 "paste-ca49f5d93f28e08851d19b70e013e16920b9f7aa.jpg",
                 "paste-ca89c46bc95b6462f6f8d8c00bedd87b1c035477.jpg",
+                "paste-d3728b786e4249fc706c887c3cb84ebe081a814b.jpg",
                 "paste-d90b96ff5f68e9c1caf55feea663a385d2f12a88.jpg",
+                "paste-dc41e9f9b0c5a46ffe7963d1da2e2e80a1069a48.jpg",
                 "paste-ded792c81173aea5c49e0662bef8d099da5858b0.jpg",
                 "paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg",
                 "paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg",
@@ -3205,8 +3215,12 @@
                 "paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg",
                 "paste-f28ba570d4f5396812d57d26b4a7bbc23508d8e8.jpg",
                 "paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg",
+                "paste-f70bb5763179026381f0ca78f04eab55f519d54f.jpg",
                 "paste-fa5024138d971671348fdb73a255499bd48fdc98.jpg",
-                "paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg"
+                "paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg",
+                "paste_1707989736222.webp",
+                "paste_1707989865945.webp",
+                "paste_1707992537594.webp"
             ],
             "name": "Mathe",
             "newLimit": null,
@@ -4499,6 +4513,176 @@
                         "S2"
                     ],
                     "guid": "xK}Xpw7)rn",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht eine Einheitsmatrix aus?",
+                        "<img alt=\"webp image\" src=\"paste_1707989736222.webp\">"
+                    ],
+                    "guid": "Z;D]~A4~^",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A * I = I* A =?",
+                        "A"
+                    ],
+                    "guid": "e;#&.K]){l",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann heißt eine quadratische Matrix A <b>invertierbar</b> oder <b>regulär</b>?",
+                        "Wenn es eine Matrix A (hoch -1) gibt<br><br><img alt=\"webp image\" src=\"paste_1707989865945.webp\">"
+                    ],
+                    "guid": "clDo12e*;Y",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie nennt man die Matrix A (hoch -1)",
+                        "Die zu A inverse Matrix"
+                    ],
+                    "guid": "s<!0KF]WQr",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist wenn es keine Matrix A (hoch -1) zu A gibt?",
+                        "<ul><li>nicht invertierbar</li><li>singulär</li></ul>"
+                    ],
+                    "guid": "kq_=/0xuuu",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viele Inverse Matrixen der Matrix A gibt es?",
+                        "Nur eine!"
+                    ],
+                    "guid": "MwqN1b<i5L",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kann ich eine Inverse Matrix invertieren?",
+                        "Ja"
+                    ],
+                    "guid": "l9=Cs}5XAQ",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Regel Inverse Matrix invertierten",
+                        "<img src=\"paste-1d40401a10f1fc30e7a7e5f5ef13926ec360a12a.jpg\">"
+                    ],
+                    "guid": "QHLp>sDwa9",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie prüft man ob eine Matrix invertierbar ist?",
+                        "Man wendet den Gauß an<br>Falls eine Nullzeile auftritt geht es nicht<br>Sonst schon"
+                    ],
+                    "guid": "pPbG9$((VR",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was entspricht&nbsp;<img src=\"paste-808a9184355e9fbe9a382da59fe793aa36256b43.jpg\">",
+                        "<img src=\"paste-d3728b786e4249fc706c887c3cb84ebe081a814b.jpg\">"
+                    ],
+                    "guid": "E&=N9p(J:j",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man die Determinante?",
+                        "<img alt=\"webp image\" src=\"paste_1707992537594.webp\">"
+                    ],
+                    "guid": "zCeEE6Zs0S",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechne die Determinante dieser Matrix<br><img src=\"paste-2366a1ef799062531ca232c8c2adbe0630c616fb.jpg\">",
+                        "<img src=\"paste-dc41e9f9b0c5a46ffe7963d1da2e2e80a1069a48.jpg\"><br><img src=\"paste-8e33f2d96e97c018d0f4cae05e4c87b5dd260fab.jpg\"><br>"
+                    ],
+                    "guid": "P<^<6{UOq[",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechne ich die Determinante hier?<br><img src=\"paste-8143250ab374c731ef21b24c73bb236b11ef7632.jpg\">",
+                        "<img src=\"paste-7f5d3835a1cffc3162835607ca6c825aea8aba56.jpg\">"
+                    ],
+                    "guid": "nOu[E~4!6{",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Effizientere Methode eine Determinante zu berechnen?",
+                        "<img src=\"paste-f70bb5763179026381f0ca78f04eab55f519d54f.jpg\">"
+                    ],
+                    "guid": "yrWxKuVfvn",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist eine Determinante 0",
+                        "Sind die Zeilen oder Spalten einer n x n Matrix A aufgefasst als Vektoren des R linear abhängig"
+                    ],
+                    "guid": "f|Wrin-O09",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ändert sich die Determinante einer Matrix wenn man sie Transportiert?",
+                        "Nein"
+                    ],
+                    "guid": "ON_}oIG/N$",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-bb1bdb8014f5bb2e612b00dcc8f4b2100783ada8.jpg\">&nbsp;=?",
+                        "<img src=\"paste-633177b5f1e0890f89b413daebe6a02f372ca061.jpg\">"
+                    ],
+                    "guid": "IE#D`fA=Z~",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
@@ -11989,7 +12173,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie ist die Darstellung in Wireframes?",
-                        "<ul><li>Keine Faarben, Bilder, Typografie</li><li>In der Regel schwarz/weiß</li></ul>"
+                        "<ul><li>Keine Farben, Bilder, Typografie</li><li>In der Regel schwarz/weiß</li></ul>"
                     ],
                     "guid": "uGN=WtZiJD",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
