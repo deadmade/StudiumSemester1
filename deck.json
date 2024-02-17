@@ -8916,7 +8916,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wann ist eine Formel Kanonisch?",
-                        "Wenn sie sich in DNF befindet und zusätzlich in jeder Konjunktion der Formel jede Varaible genau einmal vorkommt"
+                        "Wenn sie sich in DNF befindet und zusätzlich in jeder Konjunktion der Formel jede Variable genau einmal vorkommt"
                     ],
                     "guid": "QM+$cqn+?3",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -8939,16 +8939,6 @@
                         "<img src=\"paste-29a5c34120bdacee9fa2a3108e5cf3fa225ff4dd.jpg\">"
                     ],
                     "guid": "f@!5?[:[_;",
-                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Test_Karte",
-                        "Test_Karte"
-                    ],
-                    "guid": "HU>F(Thr6+",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 },
@@ -8996,7 +8986,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Zusammenhang zwischen semantischer und syntaktischer Folgerung<br>Entscheidbarkeit",
-                        "In nedlicher Zeit kann F1 |= F2 gezeigt werden"
+                        "In endlicher Zeit kann F1 |= F2 gezeigt werden"
                     ],
                     "guid": "HxO?Y8n/2f",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -13729,7 +13719,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 150
+                "perDay": 20
             },
             "newGatherPriority": 0,
             "newMix": 0,
