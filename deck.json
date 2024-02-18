@@ -9115,7 +9115,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie beweit man Tautologien?",
+                        "Wie beweist man Tautologien?",
                         "Es wird Gezeigt das&nbsp;<img src=\"paste-990188483b06faf10f977c701dbedbe204389f9e.jpg\">&nbsp;unerfüllbar ist"
                     ],
                     "guid": "F}p%zg71qG",
@@ -9227,16 +9227,24 @@
             "extendRev": 0,
             "media_files": [
                 "paste-07a9cc54ddbd83457fc1058313f35cee768b1a07.jpg",
+                "paste-12cd23ddd2cf30788dd8336149163d0e1b1c8087.jpg",
                 "paste-16cbd4f265d345fd44d972926a666a845736fec2.jpg",
                 "paste-265542fb3d6af1492ece79e28048220d3ffbb919.jpg",
+                "paste-2ff675bf4442fee59a39c6556b4b62c9fcd1f103.jpg",
+                "paste-356a71d9716de008a48e573b76aa7dfc07c2d368.jpg",
+                "paste-404846d5831c081c5962de10aeba873ad146aec4.jpg",
                 "paste-41cc9721c75407a01b034027918334c2ea919325.jpg",
+                "paste-4be8e27aec6ebf097f979c1c5e0a5ff5d1783a24.jpg",
                 "paste-4e39e47804106a229eb7b9c4d596ad7aa5d118ea.jpg",
                 "paste-57953a1ac8126358a800e9a80aa30bc35f89644d.jpg",
                 "paste-5a52bd9993ea1e6fb8028b421ea43fad96d4a3dc.jpg",
                 "paste-600f54fff673ce0b5aa9026570f554e54bb9c810.jpg",
                 "paste-62b25e6cacad9ad0d8a24822347c86b41577f35d.jpg",
+                "paste-64bc1f369b8715cfc0b14694d5ad742bb18d4c30.jpg",
+                "paste-6885ac569d167db45a2c54827ca0d057e4a7e3be.jpg",
                 "paste-6b3576d26247d259691613456741a616ef784950.jpg",
                 "paste-6f8a52b1fdd35dfba3d1409a6d53daa3d5bf221b.jpg",
+                "paste-70c001e828915d77fd25d169afde6eae1ab96cde.jpg",
                 "paste-758321b9bceae1e821f8b926222f207bc70d8302.jpg",
                 "paste-7c386e83862686f6173a83a8b3c797404357eccb.jpg",
                 "paste-7e31e6867664cc8a616c959dd88571c22af7b7a8.jpg",
@@ -9250,7 +9258,9 @@
                 "paste-ad42775755f1129c3add66d08308d0efca0c3b37.jpg",
                 "paste-b81f594d33f25c22255d42a40fae599c2fe1d324.jpg",
                 "paste-c52a488897dbca77b83d51eb8ed5456af7514818.jpg",
+                "paste-c551bc41183b1738b2b24548981488c9bc08dc28.jpg",
                 "paste-c564954421fd807cde8507255992f41aa61ba70b.jpg",
+                "paste-c9fb2291407c8787a5da2c9e9c43df1fe5cf7e57.jpg",
                 "paste-e3b53e86492e448b60f25f93407c2e4baa434492.jpg",
                 "paste-f2a94c22ee9046375e4beb28215f635ff0b7564c.jpg",
                 "paste-ff7dfa1098027358bb7f6630eca02b397e116e8f.jpg"
@@ -12733,7 +12743,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was ist der Iterative Designprozess?",
-                        "<ul><li>Designer fokussieren sich auf den Nutzer</li><li>Beziehen Nutzer in jueder Phase des Designprozesses mit ein</li></ul>"
+                        "<ul><li>Designer fokussieren sich auf den Nutzer</li><li>Beziehen Nutzer in jeder Phase des Designprozesses mit ein</li></ul>"
                     ],
                     "guid": "wXM0b.t4Ci",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -12823,7 +12833,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Was versteht man Unter Utility",
-                        "BEreitstellung sämtlicher Funktionalitäten und Inhalte zur Erreichung der Nutzungsziele"
+                        "Bereitstellung sämtlicher Funktionalitäten und Inhalte zur Erreichung der Nutzungs Ziele"
                     ],
                     "guid": "r$_qL5O<y<",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -12912,7 +12922,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was fürdert weißraum",
+                        "Was fördert weißraum",
                         "Orientierung und Ordnung"
                     ],
                     "guid": "v?T?-r=5nW",
@@ -12933,7 +12943,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Wie funktioniert das Gesetz der Prägnanz?",
-                        "Menschliche Wahrnehmung bevorzugt Gestalten die sich von anderen durch bestimmte Mermale abheben"
+                        "Menschliche Wahrnehmung bevorzugt Gestalten die sich von anderen durch bestimmte Merkmale abheben"
                     ],
                     "guid": "xMNo;c*rj7",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -13023,7 +13033,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Trend Farbreduktion",
-                        "<ul><li>Hintergrund schwarz oder weißß</li><li>Vordergrund unbunte Farben</li></ul><div>Auge des Betrachters wird auf die wenige Farbe gelenkt</div>"
+                        "<ul><li>Hintergrund schwarz oder weiß</li><li>Vordergrund unbunte Farben</li></ul><div>Auge des Betrachters wird auf die wenige Farbe gelenkt</div>"
                     ],
                     "guid": "n0c+fRq|+d",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -13616,6 +13626,366 @@
                         "<ul><li>Fremde Sprachen</li><li>Unnötig schwierige Sprache (Fachbegriffe)</li><li>Nicht intuitive Struktur (Navigation)</li></ul>"
                     ],
                     "guid": "v_^3$[My{K",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für was wird das Clientseitiges Scripting eingesetzt?",
+                        "Instruktionen für Browser, wie er auf Aktionen des Nutzers reagiert werden soll"
+                    ],
+                    "guid": "H3bpC_:QtF",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiele Clientseitiges Scripting",
+                        "<ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>"
+                    ],
+                    "guid": "J|&v!yr$[E",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für was wird Serverseitiges Scripting eingesetzt?",
+                        "Daten aus Datenbank holen + in Webseite einbauen"
+                    ],
+                    "guid": "f=Ms|-C,ZZ",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiele Serverseitiges Scripting",
+                        "<ul><li>PHP</li><li>C#</li><li>JavaScript</li></ul>"
+                    ],
+                    "guid": "pEm9JO4YOU",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ziel JavaScript",
+                        "Erweiterung von statischen Webseiten um dynamische Inhalte und Interaktionen"
+                    ],
+                    "guid": "i~q8FB-cOz",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenschaften JavaScript",
+                        "<ul><li>Scriptsprache</li><li>Objektorientiert</li><li>Plattformunabhängig</li><li>Sandbox-Prinzip</li></ul>"
+                    ],
+                    "guid": "u;Iiz-@$nu",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Variablen definieren?",
+                        "<ul><li>Let</li><li>Const</li></ul>"
+                    ],
+                    "guid": "KMJ1_aKV38",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel let",
+                        "<div>let age = 42;</div>"
+                    ],
+                    "guid": "BqY=L_IA8}",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel const",
+                        "const greeting = \"Hello!\";"
+                    ],
+                    "guid": "dB&#i_.(J0",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Datentypen",
+                        "Werden Dynamisch typisiert"
+                    ],
+                    "guid": "hjwY5ow0kC",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel Datentypen",
+                        "<img src=\"paste-6885ac569d167db45a2c54827ca0d057e4a7e3be.jpg\">"
+                    ],
+                    "guid": "m)tjBFWpM8",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man den Datentyp einer Variable herausfinden?",
+                        "typeop(variable)"
+                    ],
+                    "guid": "I%qoO6i/aZ",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erstellt man einen Array JavaScript (2 möglichkeiten)",
+                        "<img src=\"paste-404846d5831c081c5962de10aeba873ad146aec4.jpg\">"
+                    ],
+                    "guid": "I!h4>r-jZG",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie fügt man Elemente zu einem Array in JavaScript hinzu?",
+                        "<ul><li>push() am Ende</li><li>unshift() am Anfang</li></ul>"
+                    ],
+                    "guid": "i~2Y}ZCA!E",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Zugriff auf Elemente",
+                        "let person = persons[2]"
+                    ],
+                    "guid": "zl;Eg>QL!",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Länge eines Arrays in JavaScript",
+                        "Eigenschaft length"
+                    ],
+                    "guid": ".e8`_JZ#b",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Typgleich",
+                        "==="
+                    ],
+                    "guid": "igj#+6e0~Y",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Typungleich",
+                        "!=="
+                    ],
+                    "guid": "FEQ{SL_pQ_",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie bindet man JavaScript im HTML ein?",
+                        "<img src=\"paste-12cd23ddd2cf30788dd8336149163d0e1b1c8087.jpg\">"
+                    ],
+                    "guid": "qnmh6nD>C?",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "weitere Möglichkeiten(2) um Javascript einzubinden",
+                        "<ul><li><img src=\"paste-64bc1f369b8715cfc0b14694d5ad742bb18d4c30.jpg\"><br></li><li>Einbindung im head oder body<br><img src=\"paste-4be8e27aec6ebf097f979c1c5e0a5ff5d1783a24.jpg\"><br></li></ul>"
+                    ],
+                    "guid": "HT,Fq[NcAD",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Alert in JavaScript",
+                        "<div><div>alert(\"Willkommen\");</div></div>"
+                    ],
+                    "guid": "EpMWK<F{#i",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Wie kann man sich die aktuelle Zeit holen?",
+                        "<div><div> var aktuelleZeit = new Date();</div></div>"
+                    ],
+                    "guid": "Jk*L>hrV[b",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Wie kann man Stunden, Minuten etc sich abholen?",
+                        "<div><div> var stunden = aktuelleZeit.getHours();</div><div> var minuten = aktuelleZeit.getMinutes();</div><div> var sekunden = aktuelleZeit.getSeconds();</div></div>"
+                    ],
+                    "guid": "O~FcO$<xGk",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie könnte man sich einen Zeitstring auf Stunden, Minuten, Sekunden bauen?",
+                        "<div><div>var zeitString = stunden + ':' + (minuten &lt; 10 ? '0' : '') + minuten + ':' + (sekunden &lt; 10 ? '0' : '') + sekunden;</div></div>"
+                    ],
+                    "guid": "DOj2=d3ci{",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie könnte man einen ZeitString in ein Element reinschreiben?",
+                        "<div><div>document.getElementById('zeitAnzeige').textContent = zeitString;</div></div>"
+                    ],
+                    "guid": "ik8gTqzBc=",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man eine JavaScript Funktion erstellen?",
+                        "<div><div> function zeitAnzeigen() {}</div></div>"
+                    ],
+                    "guid": "m&?.fyQ`D,",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man ein Intervall in JavaScript setzen?",
+                        "<div><div>setInterval(zeitAnzeigen, 1000);</div></div><div>(1000 Milisekunden = 1 Sekune)</div>"
+                    ],
+                    "guid": "HV<.^cXoo.",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Contains",
+                        ".includes(\"\")"
+                    ],
+                    "guid": "lIdBYPpH4R",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript StyleSheet ändern",
+                        "<div><div>var stylesheetLink = document.getElementById(\"meinStyleSheet\");</div></div><div><br></div><div><div><div> stylesheetLink.href = \"uebung2.css\";</div></div></div>"
+                    ],
+                    "guid": "h3M,T!>e4g",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich einen Selector mit JavaScript in eine Variable speichere?",
+                        "<div> const element = document.querySelector(\".item3\");</div>"
+                    ],
+                    "guid": "s5h;7R4~u`",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie könnte ich den Style eines Elements mit JavaScript ändern? (Hintergrund Farbe)",
+                        "<div><div>element.style.backgroundColor = \"blue\";</div></div>"
+                    ],
+                    "guid": "b>6xU,+l9O",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich in JavaScript einen EventListener einem Element hinzufügen? (mouseover)",
+                        "<img src=\"paste-c551bc41183b1738b2b24548981488c9bc08dc28.jpg\">"
+                    ],
+                    "guid": "CscsVK%g(2",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist moseout",
+                        "Wenn die Maus nicht mehr über das Element hovert"
+                    ],
+                    "guid": "GG4/T[}ETk",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich ein Bild beim Drüber hovern vergrößern?",
+                        "<img src=\"paste-70c001e828915d77fd25d169afde6eae1ab96cde.jpg\">"
+                    ],
+                    "guid": "e[C77|#7@g",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man eine Tabelle unterschiedlich einfärben?",
+                        "<img src=\"paste-c9fb2291407c8787a5da2c9e9c43df1fe5cf7e57.jpg\">"
+                    ],
+                    "guid": "np!]j*U)OD",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man ein Element aus einem Formular bekommen?<br>Formular:<br><div><img src=\"paste-356a71d9716de008a48e573b76aa7dfc07c2d368.jpg\"><br></div>",
+                        "<img src=\"paste-2ff675bf4442fee59a39c6556b4b62c9fcd1f103.jpg\">"
+                    ],
+                    "guid": "D8PK}AZ=gX",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
