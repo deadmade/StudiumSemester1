@@ -4685,6 +4685,26 @@
                     "guid": "IE#D`fA=Z~",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ln(x *y) =?",
+                        "ln(x) + ln(y)"
+                    ],
+                    "guid": "AX]QOVS.Ci",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "det(A *B)=? bei quadratischen Matritzen",
+                        "det(A) * det(B)"
+                    ],
+                    "guid": "f8)0W>^-Lk",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
