@@ -11,6 +11,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "paste-01d5fdcd55281236de42306b228e696dc616799c.jpg",
                 "paste-01daa23e0dbe82281294ae5a25eadfae4e49eb03.jpg",
                 "paste-03001e4d6abd99983090baf23e6846a858ede459.jpg",
                 "paste-09d9b99fe4124470350c908e74780d755bc6a6c0.jpg",
@@ -26,6 +27,7 @@
                 "paste-1c4ae7143d385f3b9a9de69c593670699cd9bbbe.jpg",
                 "paste-1d0a9e2cf7d32082a7553314682cdd7e606ff216.jpg",
                 "paste-20037a2f7813ff34ff2435e2d875476a3b3b4f7f.jpg",
+                "paste-236ebc1cfe652dba219e782e39ed86cff15aa28e.jpg",
                 "paste-285ece37a890d2ab9fea901d31c16d6d9076ccae.jpg",
                 "paste-29f1b91a6da8d9cf874789038d7e54d62104a3fb.jpg",
                 "paste-2a77bbcc98b1e052f14f6d75afcc8d8c56be311b.jpg",
@@ -56,8 +58,11 @@
                 "paste-6ae66bd44d9a7f83ea00c2cf61ee75498ee0be59.jpg",
                 "paste-6ecba8b35e6237cba0ef5b6b16cdb8211d99e826.jpg",
                 "paste-70061c086f4901acd392fc420cc358f0590a588e.jpg",
+                "paste-70583568013ea5bdd7aae5cd643b184d2d40dc04.jpg",
+                "paste-70e3f6e8c1b37c789adafa6aab954d66166abfd3.jpg",
                 "paste-717b6388d2005934b9c7b7fdf376fb0e3414efee.jpg",
                 "paste-75aa69f95daf214bf42e9a713627708ec78719ab.jpg",
+                "paste-7620c4268e7f0b9bea7e3abbefee172974195f51.jpg",
                 "paste-77ed3184cf4832241835c6de5b6b49a23bf2c735.jpg",
                 "paste-78855317c71bad30010a941719f17099ab60a915.jpg",
                 "paste-79b3eb9f287b3bd3611601f27cc527bf1f66065e.jpg",
@@ -1922,6 +1927,136 @@
                         "Ein Schalter wenn er Umgelegt ist, ist erst ab einer Gewissen Zeit richtig umgelegt und erzeugt davor das<br><img src=\"paste-0d9fdaf6c582d5f3d024f345aabcea1707fd09b0.jpg\">"
                     ],
                     "guid": "eU`H328x-s",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich eine Logik in eine NAND oder NOR Logik konvertieren?",
+                        "Immer doppeltes Negieren"
+                    ],
+                    "guid": "q*GYZqC&6y",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel Konvertieren NAND",
+                        "<img src=\"paste-01d5fdcd55281236de42306b228e696dc616799c.jpg\">"
+                    ],
+                    "guid": "jf~++I[MSu",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich eine Variable mit einer NAND Schaltung konvertieren?",
+                        "<img src=\"paste-70583568013ea5bdd7aae5cd643b184d2d40dc04.jpg\">"
+                    ],
+                    "guid": "Q.nNU}?=R/",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel XOR Umwandlung",
+                        "<img src=\"paste-70e3f6e8c1b37c789adafa6aab954d66166abfd3.jpg\">"
+                    ],
+                    "guid": "p:,Um*Ujac",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man eine AND Funktion mit 3 eingängen zu NAND Gatter mit Zwei Aingängen konvertieren?",
+                        "<img src=\"paste-236ebc1cfe652dba219e782e39ed86cff15aa28e.jpg\">"
+                    ],
+                    "guid": "Gvk!sN0KV]",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "KNF Schaltung aus Diagramm ablesen Vorgehen",
+                        "<div><ul><li>Nullen\nzusammenfassen</li><li>Zugehörige Variablen negiert\n     hinschreiben und mit ODER Verknüpfen</li><li>Die entstandene Einzelterme\n     mit UND Verknüpfen</li></ul></div>"
+                    ],
+                    "guid": "f})k7Gs9^$",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie schreibt man die Variablen der Formeln?",
+                        "a,b,c,d"
+                    ],
+                    "guid": "xYkvbe[DD=",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "DNF aus Diagramm erstellen Vorgehen",
+                        "<ul>\n<li>Einser im Diagramm mit UND\n     zusammenfassen</li>\n<li>Einzelterme mit ODER\n     verknüpfen</li></ul>"
+                    ],
+                    "guid": "s21v2%_*!^",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht ein KV-Diagramm mit 3 Variablen aus?",
+                        "<img src=\"paste-7620c4268e7f0b9bea7e3abbefee172974195f51.jpg\">"
+                    ],
+                    "guid": "Fc`RLzdj}y",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Variablen hat ein Viererblock im KV-Diagramm",
+                        "2"
+                    ],
+                    "guid": "y;U7Cv!cjb",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Variablen hat ein Zweierblock im KV-Diagramm",
+                        "3"
+                    ],
+                    "guid": "PYxQR^nl8h",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie viel Variablen hat ein Einerblock im KV-Diagramm",
+                        "4"
+                    ],
+                    "guid": "AQUQQC<Ya",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert ein dont care Term?",
+                        "Man kann sich eine Stelle im KV-Diagramm heraussuchen, um die vereinfachung zu verbessern.<br>"
+                    ],
+                    "guid": "MXcChY[Twm",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
@@ -5857,8 +5992,11 @@
             "media_files": [
                 "paste-004e1f1d3f7f90a0002c0db637351200259f47f1.jpg",
                 "paste-0069f2b737e6b77a18b120ddd3950e2293380b31.jpg",
+                "paste-03dbb691fe68243848f1153d25aa51343b1094e6.jpg",
                 "paste-054642cb0668e66df16031bc0fe3357ea5b20d38.jpg",
                 "paste-06ee88f7d91eb792820f9a4f2bb7ba944d72a1d9.jpg",
+                "paste-07ac0252bf7e11a379afdc6b11fba03c830ec16c.jpg",
+                "paste-09bd8618830e1c592aa6452f564f649361559a4b.jpg",
                 "paste-0d0985b549b528e93e7476951dee76682cfccd9b.jpg",
                 "paste-10614b600c88485448ecc2cfa4327dc2a4d495a8.jpg",
                 "paste-128bc3471cc6a6d7744598a909e174b64e8bd07c.jpg",
@@ -5866,17 +6004,23 @@
                 "paste-141bfd1e15a9bb547b728a76f12cf09cbcbc4771.jpg",
                 "paste-187006302293d44143e098a6b4899d3abc23e573.jpg",
                 "paste-1afa65afc9b4659718354f64cd5303436e0f8de8.jpg",
+                "paste-1bc1ac8d467298804dfb4642676eaf61fa5f917b.jpg",
+                "paste-1cd60bc22655ee1ea7f97382f9aa423f69ab5e12.jpg",
                 "paste-225152a06bf4866bfd8a74b2236732e3f30ae4c8.jpg",
+                "paste-242367e409f8faa73faffab4317d1b7b255e0470.jpg",
                 "paste-24e33345e8f2ffc5394571341c1bba578ee4d1ab.jpg",
                 "paste-2753a2155d66e9156948c61a750f6134598d2dd0.jpg",
                 "paste-277741fe884ee8968c39bda5f3116bae60e9b287.jpg",
                 "paste-278c151cbd31d7160d187198ecb9b774f2741c07.jpg",
                 "paste-29386602082b416085f731a01f370d3b0c777df6.jpg",
                 "paste-2968885fd90b5184011a2a50e1e4090866e0c370.jpg",
+                "paste-299e16db2487e35a884a1894aef290551c9a30a3.jpg",
                 "paste-29a5c34120bdacee9fa2a3108e5cf3fa225ff4dd.jpg",
+                "paste-2a6ec0ccf8d91030b841ce7c558a91959559e3cd.jpg",
                 "paste-2c819cec315851a99dc6d70a5983d08037785248.jpg",
                 "paste-2c9eef017f129a0b5337d2adbfedbe0b44dc1274.jpg",
                 "paste-2e400776ef2fabe36ee56c45c19d75420afd7a13.jpg",
+                "paste-30febd155adba55bab5b88a751dfee7dbcb67873.jpg",
                 "paste-316574c99988e06f6e05953810fbb6e1f6865e3c.jpg",
                 "paste-31ebbe72a926d8a901bc1a45a7e0576086b3059b.jpg",
                 "paste-32663055f5c473c53b53bcfdf68a041c660115a3.jpg",
@@ -5884,23 +6028,32 @@
                 "paste-38f8aa2fc753788609bcfda8f4cfcc8843060640.jpg",
                 "paste-395d7ef5056c51edb34d5a800708cbcd8a8b16ab.jpg",
                 "paste-399eed2df6344630da67f1caa6c82d16b9c5a7d1.jpg",
+                "paste-3a0cf838ed3b75459c3632bc1eaa850a8a9d88cc.jpg",
                 "paste-3fb326e4dba360024a703d6a025611a8d652c44c.jpg",
                 "paste-3fb87adfc9229778502d83e87fdc3c9b9872fa79.jpg",
+                "paste-4251801b4ec46d215e42ffbaa1cf339954b0db28.jpg",
+                "paste-4364fdedb085b3bbf88ea2d7e60fad5cedb71098.jpg",
                 "paste-456799ecc2a0b9faf9f0eaf0266fd5d25c43b3e3.jpg",
                 "paste-46ec7780e82db36feaef1d561285b5e1c8e1c25c.jpg",
+                "paste-4935ae67d51a8369f2d5df7400f86a248ec11141.jpg",
                 "paste-4adc239bdf71f723e80197a28c49e2c1f4857be5.jpg",
                 "paste-4bf18821ce2fe24de2f7f25f8f7ff4944368ba98.jpg",
                 "paste-4ceab30623f6fbe9d3b80cccf0980f1afc7ad6c3.jpg",
                 "paste-4f894658c657915541e6a0d32127468179b7bbe3.jpg",
+                "paste-521dd6b1ca02d979af2949555dbbc1a95356ece8.jpg",
                 "paste-526904817cb7fdd6f990b910faaed776a59cca3a.jpg",
                 "paste-548f306bcdcebf8a8f6558bcec9da2448bad61b3.jpg",
                 "paste-5562dab2c1f6991a410df5b257cc193c81639f96.jpg",
+                "paste-567af198ce227b669cb7772f8042ea528308b4b4.jpg",
                 "paste-58046dc14aa801d8bd9db39d3d1f6771571b3ed2.jpg",
                 "paste-58679a9e55d6f88ba7e6902a9df9fead1590e51f.jpg",
                 "paste-5909ca85cb514bdd0b4c4a51f069168a2e4b13aa.jpg",
+                "paste-5a3f07b5a78320ac4b40540bb1deb3e0239c60ca.jpg",
                 "paste-5b2440666d6963ae6e333d4723d8829558d14ae5.jpg",
                 "paste-5ca2743f4fa6396a50018c5bb4639217d935836a.jpg",
+                "paste-5d5d5580496e90e73df24eb56086dec5272a5d83.jpg",
                 "paste-5d94d2f46b9222eab5ac063eaa8bcd244c430737.jpg",
+                "paste-6006557534b0b66a86c91402ad9e5b2c7901af3a.jpg",
                 "paste-607966b048fc4c079612784e9ffb8756a2da0f0e.jpg",
                 "paste-622e6f6ebf27239dc6e5f38a8b012010687310f1.jpg",
                 "paste-683eccb1a3744cc85057a28cc880e2fb4f6dd674.jpg",
@@ -5931,7 +6084,10 @@
                 "paste-9a787d8d0308a2704f18ee67a23172edf17cd110.jpg",
                 "paste-9ab14a309bb2fd829efb8114a604e82ccdb99c27.jpg",
                 "paste-9c9baafc16dcdb205fb548906b072367619a6943.jpg",
+                "paste-9d948b519b670410243c8cf56f52526f380b582b.jpg",
+                "paste-a0cb488c263368426bb18fe0f2b0bf7f8a234a5c.jpg",
                 "paste-a0fe1d856f2ed8f32bb80999e330c5d569a076bf.jpg",
+                "paste-a140daca9d3802cccde2eafc3ecdb149a69109f6.jpg",
                 "paste-a1be4d8a38d5716a0d2434e96ce2515c428ea7d3.jpg",
                 "paste-a3143facec388bae6ed3522dc203727f7a0ad772.jpg",
                 "paste-a3a38f334e2b9215a73db15ca5b891caaff90247.jpg",
@@ -5947,33 +6103,45 @@
                 "paste-b4445b2a1cffd8be8ba8a48ffbf8ba3621d614fe.jpg",
                 "paste-b5090ebd2e9317aa3fc1977228d948b37e7a35fc.jpg",
                 "paste-b70a7840592e99144152a94558f096ab8697c6c4.jpg",
+                "paste-b76a3d94abede4721df819a47520817c5eed0814.jpg",
+                "paste-b81ba791810a0858e028b1f5b1489b87ea6f9cbb.jpg",
                 "paste-ba18a05ded8c04a7723b3c8a71e3166eee43c1f4.jpg",
+                "paste-c04b4b7d3af84b8d7f53e397262f5ea1aea0be7d.jpg",
                 "paste-c1cb15962c6a43fc58a24c2994d82c3d576693ae.jpg",
                 "paste-c2f449039cc58ab7e6a1b5a00ea4564f93700e29.jpg",
                 "paste-c32a1bfb989db18e0c7d17356811e1c5ca370bea.jpg",
+                "paste-c3fde9cb80ad373dd5357a323e2895bdbf6ee949.jpg",
                 "paste-c4311340fe938a13c47e0de9bbec78b15d335f71.jpg",
                 "paste-c85d7ae0299d04954339f986703a8d7f87e5e797.jpg",
                 "paste-c89b27e1a1548893d511459942778c950fbf78de.jpg",
                 "paste-c8be6bf4a12ad842291f4990ed23f368f36ca06a.jpg",
                 "paste-c8ffda5846af0d42f2f201b375617d40c28ecaa3.jpg",
                 "paste-c9daf0eede0ea239ff8d6718e1bb53bc72c865bb.jpg",
+                "paste-cb9875137712d7197ecb6f68d970a9e13da0ddbb.jpg",
                 "paste-cd099a824b8df07294482a5d857c402990f9c4f0.jpg",
                 "paste-cd9d814b76607c2632d139195df18d1db60e2b83.jpg",
                 "paste-cdb1434e71d9c8938dccc3eb4be7783a1aa4f6ef.jpg",
                 "paste-cf114ae4a679dfd8a391e8f39c2d5dee16ebcfe7.jpg",
                 "paste-d0689454b7fd2f90a6f1cd51a7f2d22d8c4e81d5.jpg",
+                "paste-d6811a3248ce067883486a570670561b8b548768.jpg",
                 "paste-d6dc9fd764c87e9f9594871be9a2776d03b22960.jpg",
+                "paste-d6de2768a97285bd5517899d5af65dd94bb2b69b.jpg",
                 "paste-d8dadefc82557d3fe4df36b09867b68f18e75a09.jpg",
                 "paste-db60ad725a2e9ca83568bfa0aff8c316727542e1.jpg",
                 "paste-de194c2d897d8b9d5a92772bb44b39c3f4087322.jpg",
                 "paste-df188bd2c22406c628e67e1526d93a363d1a626f.jpg",
                 "paste-e301360d984d8125d748471af0e6208e27cee662.jpg",
+                "paste-e772a2b0f20b845309a8b4c75ecc5bfdb89927ef.jpg",
                 "paste-e80011dcaa45a785addcd01dee4f3f73e8f60c94.jpg",
                 "paste-e9947a2d0f69ab3bdc87e445d34c9f024729ceee.jpg",
                 "paste-e9b3336b846015ec9d2b86a1a54985f86271b10c.jpg",
+                "paste-ecfcb861286d684a9b4d127fe3d5e0f6959a5ace.jpg",
+                "paste-ed4d121c6bb72ef9179e8a6167a63330e3e3966e.jpg",
                 "paste-edb1b119a5440be5aa5269f1339205dd6efe3b87.jpg",
                 "paste-ef3d0d864dfb14e7965c8b7cbd6572fdf82d6aa6.jpg",
                 "paste-f185a0bd3bf32b94779806cca1af551f77cb9fe3.jpg",
+                "paste-f239d5347b61436e91221445d54336ff78dea901.jpg",
+                "paste-f4066b2703e051796dfc5f77a8e3844187e539c6.jpg",
                 "paste-f6cf3cbd767a169ade1800b9ab42c2188595befd.jpg",
                 "paste-f87dfd19389c1a6099e5e36db199efbe1d31e5ff.jpg",
                 "paste-fb9386c0f27dcc1525cc0eff8321dcc46797507d.jpg"
@@ -9229,6 +9397,326 @@
                         "Eine Variable muss unterschiedlich sein&nbsp;"
                     ],
                     "guid": "D`@djrXi2}",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Prädikatenlogik",
+                        "Vollständig und unentscheidbar<br>-&gt; Ist nicht für alle\nProbleme in endlicher Zeit lösbar"
+                    ],
+                    "guid": "d1q2yPzzk*",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Prädikat?",
+                        "<ul><li>Eine Funktion</li><li>besitzt eine beliebige (aber konnstante) Anzahl an Variablen</li><li>Bildet auf beliebige Definitionsmenge auf die Wertemenge Warheitswert 0 und 1 ab</li></ul><br>"
+                    ],
+                    "guid": "c(Dr4w@sHT",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Syntax Konstanten",
+                        "a,b,c,d"
+                    ],
+                    "guid": "tX,4qv>C`6",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Syntax Variablen",
+                        "X,Y,Z"
+                    ],
+                    "guid": "N[Ic~FNOZj",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Syntax Funktionen",
+                        "f,g,h"
+                    ],
+                    "guid": "nFZ[eN1k9r",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Prädikat",
+                        "p,q,r oder Namen"
+                    ],
+                    "guid": "yynGS4U!;(",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Prädikatenlogik 1. Stufe Beispiel an: \"Ist dieses Tier ein Hund?\"",
+                        "<img src=\"paste-a0cb488c263368426bb18fe0f2b0bf7f8a234a5c.jpg\">"
+                    ],
+                    "guid": "t.6P<@TcaM",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist jede Variable und Konstante",
+                        "Ein Term"
+                    ],
+                    "guid": "EC^FP/1qw7",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Funktion auf Terme",
+                        "Terme"
+                    ],
+                    "guid": "ez,vti7k4D",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Prädikate die auf Terme Angewandt werden",
+                        "Terme"
+                    ],
+                    "guid": "ML6=|Sr$s[",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist mit dem negierten F wenn F eine Formel ist",
+                        "Eine Formel"
+                    ],
+                    "guid": "EYFI%H1E+P",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist wenn F und G eine Formel ist?",
+                        "Alle kombinationen aus F und G sind Formeln"
+                    ],
+                    "guid": "CSnaQv-x|9",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist wenn F eine Formel und x eine Variable ist?",
+                        "<img src=\"paste-09bd8618830e1c592aa6452f564f649361559a4b.jpg\">"
+                    ],
+                    "guid": "AOh^`A@HjV",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Gleiche Quantoren",
+                        "kommutativ"
+                    ],
+                    "guid": "d/~Gi92VI@",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind unterschieldiche Quantoren",
+                        "nicht kommutativ!!!"
+                    ],
+                    "guid": "K|8;8EUUt2",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gebunden ungebunden?<br><img src=\"paste-cb9875137712d7197ecb6f68d970a9e13da0ddbb.jpg\">",
+                        "<img src=\"paste-03dbb691fe68243848f1153d25aa51343b1094e6.jpg\">"
+                    ],
+                    "guid": "j[LgvW2)Q",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gebunden oder ungebunden?<br><img src=\"paste-1bc1ac8d467298804dfb4642676eaf61fa5f917b.jpg\">",
+                        "<img src=\"paste-4251801b4ec46d215e42ffbaa1cf339954b0db28.jpg\">"
+                    ],
+                    "guid": "D`zUpM8WJT",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gebunden oder ungebunden?<br><img src=\"paste-4364fdedb085b3bbf88ea2d7e60fad5cedb71098.jpg\">",
+                        "alle gebunden"
+                    ],
+                    "guid": "HgWAG.aoRv",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-3a0cf838ed3b75459c3632bc1eaa850a8a9d88cc.jpg\">=?",
+                        "<img src=\"paste-f4066b2703e051796dfc5f77a8e3844187e539c6.jpg\">"
+                    ],
+                    "guid": "Reqo0&nzYT",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-2a6ec0ccf8d91030b841ce7c558a91959559e3cd.jpg\">=?",
+                        "<img src=\"paste-b81ba791810a0858e028b1f5b1489b87ea6f9cbb.jpg\">"
+                    ],
+                    "guid": "L9/=Ux^9s1",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn X nicht in G vorkommt gilt:<br><img src=\"paste-f239d5347b61436e91221445d54336ff78dea901.jpg\">=?",
+                        "<img src=\"paste-299e16db2487e35a884a1894aef290551c9a30a3.jpg\">"
+                    ],
+                    "guid": "d~==]X6QHU",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn X nicht in G vorkommt gilt:<br><img src=\"paste-567af198ce227b669cb7772f8042ea528308b4b4.jpg\">=?",
+                        "<img src=\"paste-5d5d5580496e90e73df24eb56086dec5272a5d83.jpg\">"
+                    ],
+                    "guid": "zE0;{;QsNl",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn X nicht in G vorkommt gilt:<br><img src=\"paste-30febd155adba55bab5b88a751dfee7dbcb67873.jpg\">=?",
+                        "<img src=\"paste-07ac0252bf7e11a379afdc6b11fba03c830ec16c.jpg\">"
+                    ],
+                    "guid": "euOm6/}a1A",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wenn X nicht in G vorkommt gilt:<br><img src=\"paste-521dd6b1ca02d979af2949555dbbc1a95356ece8.jpg\">=?",
+                        "<img src=\"paste-a140daca9d3802cccde2eafc3ecdb149a69109f6.jpg\">"
+                    ],
+                    "guid": "PFM[xdq,t(",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-5a3f07b5a78320ac4b40540bb1deb3e0239c60ca.jpg\">=?",
+                        "<img src=\"paste-4935ae67d51a8369f2d5df7400f86a248ec11141.jpg\">"
+                    ],
+                    "guid": "Z4^Np1Fx}",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-242367e409f8faa73faffab4317d1b7b255e0470.jpg\">=?",
+                        "<img src=\"paste-1cd60bc22655ee1ea7f97382f9aa423f69ab5e12.jpg\">"
+                    ],
+                    "guid": "m;@BWt;TQg",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-9d948b519b670410243c8cf56f52526f380b582b.jpg\">=?",
+                        "<img src=\"paste-b76a3d94abede4721df819a47520817c5eed0814.jpg\">"
+                    ],
+                    "guid": "B3sC?nXP[e",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-e772a2b0f20b845309a8b4c75ecc5bfdb89927ef.jpg\">=?",
+                        "<img src=\"paste-ecfcb861286d684a9b4d127fe3d5e0f6959a5ace.jpg\">"
+                    ],
+                    "guid": "r+^W4DyX2s",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-6006557534b0b66a86c91402ad9e5b2c7901af3a.jpg\">=?",
+                        "<img src=\"paste-ed4d121c6bb72ef9179e8a6167a63330e3e3966e.jpg\"><br>Das ist Falsch!!!"
+                    ],
+                    "guid": "A^$p/8H~#A",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-c3fde9cb80ad373dd5357a323e2895bdbf6ee949.jpg\">=?",
+                        "Falsch Falsch Falsch<br><img src=\"paste-d6811a3248ce067883486a570670561b8b548768.jpg\">"
+                    ],
+                    "guid": "h81T90/Oq}",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<img src=\"paste-d6de2768a97285bd5517899d5af65dd94bb2b69b.jpg\">=?",
+                        "<img src=\"paste-c04b4b7d3af84b8d7f53e397262f5ea1aea0be7d.jpg\">"
+                    ],
+                    "guid": "xi}Vo3pCOb",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie müssen Prädikate Formuliert werden?",
+                        "Immer positiv!"
+                    ],
+                    "guid": "sWGDAkk(no",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
@@ -13662,7 +14150,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beispiele Clientseitiges Scripting",
+                        "Beispiele Sprachen Clientseitiges Scripting",
                         "<ul><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>"
                     ],
                     "guid": "J|&v!yr$[E",
@@ -13682,7 +14170,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Beispiele Serverseitiges Scripting",
+                        "Beispiele Serverseitiges Scripting Sprachen",
                         "<ul><li>PHP</li><li>C#</li><li>JavaScript</li></ul>"
                     ],
                     "guid": "pEm9JO4YOU",
@@ -14006,6 +14494,36 @@
                         "<img src=\"paste-2ff675bf4442fee59a39c6556b4b62c9fcd1f103.jpg\">"
                     ],
                     "guid": "D8PK}AZ=gX",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erstellt man eine Border für Tabellen?",
+                        "<div><div> border: 1px solid black;</div></div>"
+                    ],
+                    "guid": "c3su*,H6Wa",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ich ein element Vertikal ausrichten css",
+                        "<div><div> display: inline;</div></div>"
+                    ],
+                    "guid": "d$<<|CFKA>",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "JavaScript Wie kann man String in Number konvertieren?",
+                        "Number(string)"
+                    ],
+                    "guid": "CxP]R6ds&A",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
