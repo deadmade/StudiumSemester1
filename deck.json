@@ -9734,34 +9734,43 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "paste-03cc5795e14b1d255b714c5697bb8ab978c4d3b9.jpg",
                 "paste-07a9cc54ddbd83457fc1058313f35cee768b1a07.jpg",
                 "paste-12cd23ddd2cf30788dd8336149163d0e1b1c8087.jpg",
                 "paste-16cbd4f265d345fd44d972926a666a845736fec2.jpg",
                 "paste-265542fb3d6af1492ece79e28048220d3ffbb919.jpg",
                 "paste-2ff675bf4442fee59a39c6556b4b62c9fcd1f103.jpg",
+                "paste-330d0220651bc860959030b32521d9a14d38e8e1.jpg",
                 "paste-356a71d9716de008a48e573b76aa7dfc07c2d368.jpg",
                 "paste-404846d5831c081c5962de10aeba873ad146aec4.jpg",
                 "paste-41cc9721c75407a01b034027918334c2ea919325.jpg",
+                "paste-45a23b7c19fef226e381c5136543c293839e33fa.jpg",
                 "paste-4be8e27aec6ebf097f979c1c5e0a5ff5d1783a24.jpg",
                 "paste-4e39e47804106a229eb7b9c4d596ad7aa5d118ea.jpg",
                 "paste-57953a1ac8126358a800e9a80aa30bc35f89644d.jpg",
                 "paste-5a52bd9993ea1e6fb8028b421ea43fad96d4a3dc.jpg",
                 "paste-600f54fff673ce0b5aa9026570f554e54bb9c810.jpg",
                 "paste-62b25e6cacad9ad0d8a24822347c86b41577f35d.jpg",
+                "paste-6353fc459952b884388f112f357e3506e4ac89c4.jpg",
                 "paste-64bc1f369b8715cfc0b14694d5ad742bb18d4c30.jpg",
                 "paste-6885ac569d167db45a2c54827ca0d057e4a7e3be.jpg",
+                "paste-6930a322aa75fc1ebf434ebd076aab39b5d2a47e.jpg",
                 "paste-6b3576d26247d259691613456741a616ef784950.jpg",
                 "paste-6f8a52b1fdd35dfba3d1409a6d53daa3d5bf221b.jpg",
                 "paste-70c001e828915d77fd25d169afde6eae1ab96cde.jpg",
+                "paste-74c6665c2e0587c8c99b1f1c30c67df9f9edcf80.jpg",
                 "paste-758321b9bceae1e821f8b926222f207bc70d8302.jpg",
+                "paste-76c6c83458c672debf353240280c6a023e4ddae4.jpg",
                 "paste-7c386e83862686f6173a83a8b3c797404357eccb.jpg",
                 "paste-7e31e6867664cc8a616c959dd88571c22af7b7a8.jpg",
                 "paste-823cdac6bfd8260cae5eb5d0f548604517474e01.jpg",
                 "paste-8e50c4a0c792d5623973e55bfcd2a0c28ca19e7f.jpg",
                 "paste-9114852e17dd5c782c2f19305b2f62014a221157.jpg",
                 "paste-918890a024260aac457b151abfeb9a56e817a093.jpg",
+                "paste-9b10404b08e70f753737b316a9fcd886e69c2545.jpg",
                 "paste-a2f791631a661a1c1f422a261566054c34bc1eee.jpg",
                 "paste-a56e49e35f006a64959bb989bf5f04f265f8d89b.jpg",
+                "paste-a5931b0428b956d56366eed10a8dd9a9700dba4c.jpg",
                 "paste-aba9fb7e864e89bcaf9169e48e0b173676da85e9.jpg",
                 "paste-ad42775755f1129c3add66d08308d0efca0c3b37.jpg",
                 "paste-b81f594d33f25c22255d42a40fae599c2fe1d324.jpg",
@@ -9769,6 +9778,8 @@
                 "paste-c551bc41183b1738b2b24548981488c9bc08dc28.jpg",
                 "paste-c564954421fd807cde8507255992f41aa61ba70b.jpg",
                 "paste-c9fb2291407c8787a5da2c9e9c43df1fe5cf7e57.jpg",
+                "paste-d4e1d6b90a512d379314280dc30c8d92d6b723f7.jpg",
+                "paste-d5e7403ea7fdb34622ebd305eddf57acc7fe5388.jpg",
                 "paste-e3b53e86492e448b60f25f93407c2e4baa434492.jpg",
                 "paste-f2a94c22ee9046375e4beb28215f635ff0b7564c.jpg",
                 "paste-ff7dfa1098027358bb7f6630eca02b397e116e8f.jpg"
@@ -14524,6 +14535,316 @@
                         "Number(string)"
                     ],
                     "guid": "CxP]R6ds&A",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ändere ich die Hintergrundfarbe meiner HTML-File",
+                        "<img src=\"paste-a5931b0428b956d56366eed10a8dd9a9700dba4c.jpg\">"
+                    ],
+                    "guid": "HZe=6jEt3x",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ändere die Hintergrundfabe des body-Elements zu \"lightblue\", wenn die Breite des Viewports 600 Pixel oder wenier beträgt?",
+                        "<img src=\"paste-6930a322aa75fc1ebf434ebd076aab39b5d2a47e.jpg\">"
+                    ],
+                    "guid": "kJg[oMwb(S",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ändere die Schriftgröße des h1-Elements auf 36 Pixel, wenn die Breite des Viewports zwischen 800 und 1200 Pixel liegt",
+                        "<img src=\"paste-d5e7403ea7fdb34622ebd305eddf57acc7fe5388.jpg\">"
+                    ],
+                    "guid": "K;D?gZ,$6r",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne 4 im HTML praktische anzuwendene Möglichkeiten un eine Webseite Barrierefreundlicher zu gestalten (nur 4 und nicht alle die genannt werden)",
+                        "<ol><li>Verwendung von \"alt\"-Attributen für Bilder</li><li>Verwendung von Überschriftenstrukturen (h1-h6)</li><li>Verwendung von semantischen HTML-Elementen wie header, nav,main, article, selection</li><li>Verwendung von Label-Elementen für Formularfelder</li><li>Verwendung von tabellarischen Strukturen für Daten, die sinnvoll in Tabellen dargestellt werden können</li><li>Bereitstellung von Alternativtexten für Multimedia-Inhalte</li><li>Verwendung von CSS für die visuelle Gestaltung, um das Styling von Inhalten von ihrer Struktur zu trennen</li></ol>"
+                    ],
+                    "guid": "P$hubu|GlX",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne 4 im CSS praktisch anzuwendende Möglichkeiten um eine Webseite Barrierefreundlicher zu gestalten",
+                        "<ol><li>Verwendung klarer Schriftarten und Größen</li><li>Verwendung ausreichend Kontrastreicher Farben</li><li>Verwendung von Text-Alternativen für Bilder (alt, title)</li><li>Bereitstellung von Tastenkürzel</li><li>Verwendung von Responsive Design</li><li>Vermeidung von bewegten oder blinkenden Elementen</li></ol>"
+                    ],
+                    "guid": "Bm{b*,7=oC",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zähle auf, was nach DSGVO zur Rechtssicherheit auf einer Webseite implementiert sein sollte&nbsp;",
+                        "<ul><li>Datenschutzerklärung</li><li>Cookie-Banner und -Einstellungen</li><li>Verschlüsselte Übertragung (HTTPS)</li><li>Recht auf Information und Löschung von Daten</li><li>Pflicht zur Benachrichtigung bei Datenlecks</li><li>Anonymisierung</li><li>Einwilligung für Datenverarbeitung</li><li>Bennenung eines Datenschutzbeauftragten</li><li>Dokumentation von Verarbeitungstätigkeiten</li></ul>"
+                    ],
+                    "guid": "MXNGIJ(Ku%",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zeige ein Codebeispiel für die Verwendung von ARIA",
+                        "<img src=\"paste-74c6665c2e0587c8c99b1f1c30c67df9f9edcf80.jpg\">"
+                    ],
+                    "guid": "F09tT~K4@g",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ordne den Variablen ihre Datentypen zu<br><img src=\"paste-76c6c83458c672debf353240280c6a023e4ddae4.jpg\">",
+                        "String"
+                    ],
+                    "guid": "od!Zt$()i%",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ordne den Variablen ihre Datentypen zu<br><img src=\"paste-6353fc459952b884388f112f357e3506e4ac89c4.jpg\">",
+                        "object"
+                    ],
+                    "guid": "f!VO9*UOay",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ordne den Variablen ihre Datentypen zu<br><img src=\"paste-03cc5795e14b1d255b714c5697bb8ab978c4d3b9.jpg\">",
+                        "Object"
+                    ],
+                    "guid": "gr85Eqy[yo",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Initialisiere einen Array in JavaScript (2 Möglichkeiten)",
+                        "<img src=\"paste-d4e1d6b90a512d379314280dc30c8d92d6b723f7.jpg\">"
+                    ],
+                    "guid": "vJOw_0~,g!",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beispiel für OnPage-Links",
+                        "<img src=\"paste-9b10404b08e70f753737b316a9fcd886e69c2545.jpg\">"
+                    ],
+                    "guid": "dR!skh*FIb",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie bestimmt man die Länge eines Arrays?",
+                        "<img src=\"paste-330d0220651bc860959030b32521d9a14d38e8e1.jpg\">"
+                    ],
+                    "guid": "AngddpYA;!",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sortiert man einen Array?",
+                        "<img src=\"paste-45a23b7c19fef226e381c5136543c293839e33fa.jpg\">"
+                    ],
+                    "guid": "bNhvdC,1p4",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Für wen gilt in Deutschland Impressumspflicht?",
+                        "<ul><li>Unternehmen und Selbstständige</li><li>Vereine und Verbände</li><li>politische Parteien</li><li>öffentliche Stellen</li></ul>"
+                    ],
+                    "guid": "MNKQ=#>{dH",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was muss im Impressum angegeben sein?",
+                        "<ul><li>Vorname</li><li>Name</li><li>Kontaktdaten</li><li>Rechtsform</li><li>Anschrift des Verantwortlichen</li></ul>"
+                    ],
+                    "guid": "uTdJcy}q~Z",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer ist von der Impressumspflicht ausgenommen?",
+                        "Private Homepages ohne geschäftliche Zwecke"
+                    ],
+                    "guid": "cG+?JGiWP,",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wer ist für die Inhalte der Seite verantwortlich?",
+                        "Der Seitenbetrieber"
+                    ],
+                    "guid": "DU6EtQ!1G-",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie müssen Fremdinhalte auf einer Webseite behandelt werden",
+                        "Bei Fremdinhalten müssen beaufsichtigt und bei Rechtsversößen entfernt werden"
+                    ],
+                    "guid": "o|hxgZP^gq",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was schützt das Urheberrecht?",
+                        "<ul><li>Literatur</li><li>Kunst</li><li>Wissenschaft</li></ul><div>Welches ein besonderes Maß an Individualität und Kreativität aufweisen</div>"
+                    ],
+                    "guid": "o<964/<AIe",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Ziele der EU-DSGVO?",
+                        "Schutz von natürlichen Personen bei der Verarbeitung personenbezogener Daten und Gewährleistung des freien Verkehrs solcher Daten"
+                    ],
+                    "guid": "Ew|+N#q3z(",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind mögliche Beispiele für personenbezogene Daten, die erfasst werden können?",
+                        "<ul><li>Logfiles</li><li>Cookies</li><li>Webanalyse</li></ul>"
+                    ],
+                    "guid": "ddua.c`jth",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mögliche Maßnahmen, um DSGVO-Konformität zu erreichen?",
+                        "<ul><li>Newsletter mit Opt-In</li><li>Hinweis auf den Cookie-Einsatz</li><li>Individuelle Datenschutzerklärung</li></ul>"
+                    ],
+                    "guid": "B|,,;%V)[D",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man Barrierefreiheit testen?",
+                        "<ul><li>WCAG-Test</li><li>BITV-Test</li></ul>"
+                    ],
+                    "guid": "I.-8|Asc@!",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann Menschen mit einer Sehbehunderung eine barrierefreie User-Experience ermöglicht werden?",
+                        "<ul><li>Gute Farbkontraste</li><li>Lesbare Schrift</li><li>Bildbeschreibung (ALT-Texte)</li></ul>"
+                    ],
+                    "guid": "oGU>HQ-bJ0",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann Menschen mit einer körperlichen Einschränkung eine barrierefreie User-Experience ermöglicht werden?",
+                        "<ul><li>Klickbare Elemente großflächig gestalten</li><li>Tastatur und sprachgestuerte Nutzung ermöglichen</li></ul>"
+                    ],
+                    "guid": "eIvPFn4Z~%",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man Menschen mit einer Legasthenie eine barrierefreie User-Experience ermöglicht werden?",
+                        "<ul><li>Bilder und Diagramme zu Texten ergänzen</li><li>Inhalte kurz und klar aufbereiten</li></ul>"
+                    ],
+                    "guid": "faxJ.1#_Z[",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann einem hörbehinderten Menschen eine barrierefreise User-Experinece ermöglicht werden?",
+                        "Videos mit Untertitel"
+                    ],
+                    "guid": "Bq,Sr3e<>b",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie heißt die Guidline für barrierefreihet im Web und von welcher Initiative geht diese aus?",
+                        "Die Web-Conent Accesiblity Guidline (WCAG)"
+                    ],
+                    "guid": "OOH9p~kqX&",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann Menschen mit technischer Einschränkung eine barrierefreie User-Experience ermöglicht werden",
+                        "<ul><li>Klar strukturierter Quelltext</li><li>Bereitstellung von Inhalten in mehreren Formaten (Text, Bild, Video)</li><li>Sinnvole Verwendung von Meta-Angaben</li></ul>"
+                    ],
+                    "guid": "fiBQnCcJd3",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist nach EU-Richtlinien in Europa zum Thema barrierefreiheit im Web geregelt?",
+                        "Öffentliche Stellen sind verpflichtet ihre Webseiten barrierefrei zu gestalten"
+                    ],
+                    "guid": "phovSpuFSB",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
