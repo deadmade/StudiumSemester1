@@ -4840,6 +4840,16 @@
                     "guid": "f8)0W>^-Lk",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nenne eine Irrationale Zahl",
+                        "Wurzel 2"
+                    ],
+                    "guid": "qw6zRc<u^F",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
@@ -9363,7 +9373,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Was beweist die Herleitbarkeit aussagenlogischer Forlmln",
+                        "Was beweist die Herleitbarkeit aussagenlogischer Formeln",
                         "Ob eine Formel G aus einer Formel F abgeleitet werden kann"
                     ],
                     "guid": "OjMowzgO;`",
@@ -13241,7 +13251,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie funktioneirt Verknappung",
+                        "Wie funktioniert Verknappung",
                         "<ul><li>Angebot nur noch heute</li><li>nur noch 4 auf Lager</li></ul>"
                     ],
                     "guid": "rIs,}hSK{R",
@@ -14241,7 +14251,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Datentypen",
+                        "Wie geht JavaScript mit Datentypen um",
                         "Werden Dynamisch typisiert"
                     ],
                     "guid": "hjwY5ow0kC",
@@ -14441,7 +14451,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie kann ich einen Selector mit JavaScript in eine Variable speichere?",
+                        "Wie kann ich einen Selector mit JavaScript in eine Variable speichern?",
                         "<div> const element = document.querySelector(\".item3\");</div>"
                     ],
                     "guid": "s5h;7R4~u`",
@@ -14581,7 +14591,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nenne 4 im CSS praktisch anzuwendende Möglichkeiten um eine Webseite Barrierefreundlicher zu gestalten",
+                        "Nenne 4 in CSS praktisch anzuwendende Möglichkeiten um eine Webseite Barrierefreundlicher zu gestalten",
                         "<ol><li>Verwendung klarer Schriftarten und Größen</li><li>Verwendung ausreichend Kontrastreicher Farben</li><li>Verwendung von Text-Alternativen für Bilder (alt, title)</li><li>Bereitstellung von Tastenkürzel</li><li>Verwendung von Responsive Design</li><li>Vermeidung von bewegten oder blinkenden Elementen</li></ol>"
                     ],
                     "guid": "Bm{b*,7=oC",
@@ -14781,7 +14791,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie kann Menschen mit einer Sehbehunderung eine barrierefreie User-Experience ermöglicht werden?",
+                        "Wie kann Menschen mit einer Sichtbehinderung eine Barrierefreiheit User-Experience ermöglicht werden?",
                         "<ul><li>Gute Farbkontraste</li><li>Lesbare Schrift</li><li>Bildbeschreibung (ALT-Texte)</li></ul>"
                     ],
                     "guid": "oGU>HQ-bJ0",
