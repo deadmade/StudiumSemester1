@@ -9845,6 +9845,106 @@
                     "guid": "sWGDAkk(no",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann heißt eine prädikatenlogischen Formel pränex bzw Pränexform?",
+                        "alle Quantoren sind links"
+                    ],
+                    "guid": "oIC6+r-HDS",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kann es mehrere Pränexformen geben?",
+                        "Ja da das Kommutativgesetz gilt"
+                    ],
+                    "guid": "DG8)aMTMeU",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was gilt für die Substitution?",
+                        "<ul><li>Eine Variable darf durch eine Konstante ersetzt werden</li><li>Eine Variable darf durch eine Variable erstetzt werden</li><li>Eine Variable darf durch eine Funktion ersetzt werden</li></ul>"
+                    ],
+                    "guid": "ODaH[Vg:o?",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Syntax Substitution",
+                        "<ul><li>F[X/Y]</li><li>F[X/a]</li><li>F[X/f(Y)]</li></ul><br>"
+                    ],
+                    "guid": "i,o?#!k+tT",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet F[X/Y]",
+                        "-&gt; Alle Vorkommen innerhalb des Gültigkeitsbereiches eines Quantors der Variablen x einer Formel F werden durch Y ersetzt"
+                    ],
+                    "guid": "ImWU;GhCC=",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was passiert wenn die Substitution angewandt wird?",
+                        "Semantisch ist sie nicht mehr korrekt"
+                    ],
+                    "guid": "psoC]=BpK^",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Bereinigte Form?",
+                        "Formel von allen gleichzeitig gebundenen und freien Varaiblen Befreite Formel"
+                    ],
+                    "guid": "muJMW^7*^K",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist eine Formel Skolemform?",
+                        "Wann alle, in einer Formel existierenden Existenzquantoren durch Substitution entfernt wurden und nur noch Allquantoren hat"
+                    ],
+                    "guid": "nsA1]@pub@",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist eine Formel eine Hornklausel?",
+                        "Eine KNF heißt Horn-Form, wenn jede Klausel der KNF höchstens ein nicht-negiertes Literal\nenthält und alle Variablen durch einen Allquantor gebunden sind."
+                    ],
+                    "guid": "JhjC;aUw6n",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Grundlage von Prolog?",
+                        "Horn-Formen sind das grundlegende Funktionsprinzip für Prolog."
+                    ],
+                    "guid": "CK<G0@,LMg",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
