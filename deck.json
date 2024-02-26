@@ -3261,6 +3261,7 @@
                 "paste-1468350c79e6d591cb873fc78a1f3774ec28aa98.jpg",
                 "paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg",
                 "paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg",
+                "paste-19ff0d7357f19f4351348485d989008e392cac4a.jpg",
                 "paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg",
                 "paste-1d40401a10f1fc30e7a7e5f5ef13926ec360a12a.jpg",
                 "paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg",
@@ -3286,6 +3287,7 @@
                 "paste-468c4aff5a9089371fc80dc49b563839f3d757ca.jpg",
                 "paste-470f052be5c300e0e0a56181b8581abea69ac089.jpg",
                 "paste-4971bfad9d6cbff11706806c915196a81b185ef3.jpg",
+                "paste-52a65f0ce5d94a43bf03df2f7074a381406ca0c5.jpg",
                 "paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg",
                 "paste-54a570d829223c174f27eb1f4ecd1c8ae71ead9c.jpg",
                 "paste-558bf34114e27a914599bf38a0d646cf971f59eb.jpg",
@@ -3304,9 +3306,11 @@
                 "paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg",
                 "paste-6e93ba35b61fa70868fb62c3e650f2a289979d9b.jpg",
                 "paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg",
+                "paste-75c74d398f5520feced65cdb22bd89a0a7896a1f.jpg",
                 "paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg",
                 "paste-78828043eff80a21471c9bb6b4963c85070d571e.jpg",
                 "paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg",
+                "paste-7ef754a72e4ad66d6fc658bb6eb8225f6a26c623.jpg",
                 "paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg",
                 "paste-7f5d3835a1cffc3162835607ca6c825aea8aba56.jpg",
                 "paste-808a9184355e9fbe9a382da59fe793aa36256b43.jpg",
@@ -3319,6 +3323,7 @@
                 "paste-8e33f2d96e97c018d0f4cae05e4c87b5dd260fab.jpg",
                 "paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg",
                 "paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg",
+                "paste-938b7777337eb9f89d03eb63b96683cd76e9f4da.jpg",
                 "paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg",
                 "paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg",
                 "paste-987534456d3e86d16d07596564f6b566815f0897.jpg",
@@ -3344,6 +3349,7 @@
                 "paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg",
                 "paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg",
                 "paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg",
+                "paste-e9168378badc14339453dfb8358b1d77b4154e38.jpg",
                 "paste-ea20937d7fe991289fe8fe69778920e013b3d6ab.jpg",
                 "paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg",
                 "paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg",
@@ -4848,6 +4854,116 @@
                         "Wurzel 2"
                     ],
                     "guid": "qw6zRc<u^F",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert die cramersche Regel",
+                        "<img src=\"paste-19ff0d7357f19f4351348485d989008e392cac4a.jpg\">"
+                    ],
+                    "guid": "wX{H[/Cq)b",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Einheitsvektoren?",
+                        "<img src=\"paste-52a65f0ce5d94a43bf03df2f7074a381406ca0c5.jpg\">"
+                    ],
+                    "guid": "njlnJD`7G^",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert das Skalarprodukt?",
+                        "<img src=\"paste-938b7777337eb9f89d03eb63b96683cd76e9f4da.jpg\">"
+                    ],
+                    "guid": "Ql$37]%A;g",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist wenn das Skalarprodukt = 0?",
+                        "Vektoren stehen senkrecht aufeinander"
+                    ],
+                    "guid": "-ida]^+aa",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechne die Länge eines Vektors",
+                        "<img src=\"paste-7ef754a72e4ad66d6fc658bb6eb8225f6a26c623.jpg\">"
+                    ],
+                    "guid": "pM}hn#9rtT",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert das Vektorprodukt?",
+                        "<img src=\"paste-75c74d398f5520feced65cdb22bd89a0a7896a1f.jpg\">"
+                    ],
+                    "guid": "B-d=.aG{?`",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "a x b = ?",
+                        "-b x a"
+                    ],
+                    "guid": "jC#t8(Tlc3",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(r * a) x b = ?",
+                        "<ul><li>a x (r*b)</li><li>r * (a x b)</li></ul>"
+                    ],
+                    "guid": "b8,z2mH<)!",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ax (b+c) =?",
+                        "axb + axc"
+                    ],
+                    "guid": "yxxAaU_G[}",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was gilt wenn a und b beim Vektorprodukt parallel sind?",
+                        "<img src=\"paste-e9168378badc14339453dfb8358b1d77b4154e38.jpg\">"
+                    ],
+                    "guid": "oIoY:eZ}xR",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist wenn a und b nicht parralel bei a x b sind?",
+                        "C steht senkrecht auf a und b"
+                    ],
+                    "guid": "F_,sOlpBQx",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
