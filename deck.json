@@ -9961,6 +9961,7 @@
             "extendRev": 0,
             "media_files": [
                 "paste-03cc5795e14b1d255b714c5697bb8ab978c4d3b9.jpg",
+                "paste-04be947ae5dd1d01629404c5e236cc6732d1c589.jpg",
                 "paste-07a9cc54ddbd83457fc1058313f35cee768b1a07.jpg",
                 "paste-12cd23ddd2cf30788dd8336149163d0e1b1c8087.jpg",
                 "paste-16cbd4f265d345fd44d972926a666a845736fec2.jpg",
@@ -15071,6 +15072,16 @@
                         "Öffentliche Stellen sind verpflichtet ihre Webseiten barrierefrei zu gestalten"
                     ],
                     "guid": "phovSpuFSB",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schreibe eine Form<br>Mit Name und Email",
+                        "<img src=\"paste-04be947ae5dd1d01629404c5e236cc6732d1c589.jpg\">"
+                    ],
+                    "guid": "Qo@$zYQG0A",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
