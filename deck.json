@@ -3255,6 +3255,8 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "kreuzprodukt-vektorprodukt-formel.png",
+                "paste-08dffdc78c149f5bb669d0cdfd21cbb68c7500df.jpg",
                 "paste-0fd914fac80f75a8b3ea4cac1a8c8e2b556fd220.jpg",
                 "paste-125bb0f04ab68e23c523323b3debc2bf5016fc90.jpg",
                 "paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg",
@@ -3264,14 +3266,19 @@
                 "paste-19ff0d7357f19f4351348485d989008e392cac4a.jpg",
                 "paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg",
                 "paste-1d40401a10f1fc30e7a7e5f5ef13926ec360a12a.jpg",
+                "paste-1e21cf7c224edae9cad820a9147408a29bd7ed0f.jpg",
                 "paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg",
                 "paste-21a023db291352b161dc1bb35da656189da5f618.jpg",
+                "paste-22ae32e9049f6c75697a2cfe1491fb62d0a9867b.jpg",
                 "paste-2366a1ef799062531ca232c8c2adbe0630c616fb.jpg",
                 "paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg",
+                "paste-2e01d1a21baa5e97b5c2a2f6373fa34913bdc21d.jpg",
                 "paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg",
+                "paste-2ecf60ba984e7461f792b56f6bf60cbd8bada08f.jpg",
                 "paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg",
                 "paste-302b795d7a11970a323d4cb9ed749a8172fb4efb.jpg",
                 "paste-307813088be6acb3e57aa59a8806cdb564841441.jpg",
+                "paste-31a3b60570b371cfff3221d44e46449985075de8.jpg",
                 "paste-32316a3ae9edad55f9c23a013c5c92fe7a16a553.jpg",
                 "paste-344e160d22bd509a661149cbafaae3708b5c5a99.jpg",
                 "paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg",
@@ -3296,11 +3303,13 @@
                 "paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg",
                 "paste-633177b5f1e0890f89b413daebe6a02f372ca061.jpg",
                 "paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg",
+                "paste-63d71ab11130091e31cb0bc6de81d6598378e854.jpg",
                 "paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg",
                 "paste-66341160b41aac63d2387c3d7a758125b792f1fa.jpg",
                 "paste-68143cfa3fc7e442b9d984313e1040d5f89f4aae.jpg",
                 "paste-68d0b8b284ffcc747e8ad25e6a0656dc8da72092.jpg",
                 "paste-69c24612642477b473bf871c3bb6f6ffee303032.jpg",
+                "paste-6c7a9688d6ea90683ff57298a7565a82a0716a4a.jpg",
                 "paste-6c8f3d0cbfd096d858d4a4740c978ecff7c76bff.jpg",
                 "paste-6dc5ff530e959e9e87305044795ab5c59adc2189.jpg",
                 "paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg",
@@ -3312,6 +3321,7 @@
                 "paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg",
                 "paste-7ef754a72e4ad66d6fc658bb6eb8225f6a26c623.jpg",
                 "paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg",
+                "paste-7f298cbd184e60595a9f0d1f3be5d3f5b4c6616e.jpg",
                 "paste-7f5d3835a1cffc3162835607ca6c825aea8aba56.jpg",
                 "paste-808a9184355e9fbe9a382da59fe793aa36256b43.jpg",
                 "paste-8143250ab374c731ef21b24c73bb236b11ef7632.jpg",
@@ -3319,6 +3329,7 @@
                 "paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg",
                 "paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg",
                 "paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg",
+                "paste-8a6f5892b7edcc762c1ab6c8f9c0c91e1f6e6c17.jpg",
                 "paste-8c6b92209ad3dfc0a467b95f728a4b590c155862.jpg",
                 "paste-8e33f2d96e97c018d0f4cae05e4c87b5dd260fab.jpg",
                 "paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg",
@@ -3328,13 +3339,16 @@
                 "paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg",
                 "paste-987534456d3e86d16d07596564f6b566815f0897.jpg",
                 "paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg",
+                "paste-9e4c36be5dfc6ef0311892addee9b70ad6b874cd.jpg",
                 "paste-a15c16d2deb51d3747580a0e30392f6b744e2bdf.jpg",
                 "paste-a2b7dc5ea99c04d0e3fe71476b34f4604e097783.jpg",
                 "paste-a5c8a2a74a4fe701318e8cef38736a07b84d0384.jpg",
+                "paste-a675e821d54af35dcfacd86df4daa0e9ef62cd1a.jpg",
                 "paste-b10664cfd1bb3ed70a605ed12a4900f14d7822cd.jpg",
                 "paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg",
                 "paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg",
                 "paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg",
+                "paste-baba205c6ab3637216d66c63b435d9b21fd53d0a.jpg",
                 "paste-bb1bdb8014f5bb2e612b00dcc8f4b2100783ada8.jpg",
                 "paste-c0049a03548af99ab96a86ae395184d84bf6b80b.jpg",
                 "paste-c34f004e2d9c53dcef576af4d148b762de3ff83b.jpg",
@@ -3344,14 +3358,19 @@
                 "paste-ca89c46bc95b6462f6f8d8c00bedd87b1c035477.jpg",
                 "paste-d3728b786e4249fc706c887c3cb84ebe081a814b.jpg",
                 "paste-d90b96ff5f68e9c1caf55feea663a385d2f12a88.jpg",
+                "paste-dbf8587571ba37725a8bcb17095f573332d8b928.jpg",
                 "paste-dc41e9f9b0c5a46ffe7963d1da2e2e80a1069a48.jpg",
                 "paste-ded792c81173aea5c49e0662bef8d099da5858b0.jpg",
+                "paste-df18120114d19476495ec483bc650e89a50b5b43.jpg",
                 "paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg",
                 "paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg",
+                "paste-e1bedc2cac313d04a5673a5510d584f17c62b7ef.jpg",
                 "paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg",
+                "paste-e68047dd1217709c01f7be0c61c937090474bfb4.jpg",
                 "paste-e9168378badc14339453dfb8358b1d77b4154e38.jpg",
                 "paste-ea20937d7fe991289fe8fe69778920e013b3d6ab.jpg",
                 "paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg",
+                "paste-ef4bde574832fb712427655d96645e03f7054b1c.jpg",
                 "paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg",
                 "paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg",
                 "paste-f28ba570d4f5396812d57d26b4a7bbc23508d8e8.jpg",
@@ -4964,6 +4983,206 @@
                         "C steht senkrecht auf a und b"
                     ],
                     "guid": "F_,sOlpBQx",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vektorprodukt Formel",
+                        "<img alt=\"Kreuzprodukt / Vektorprodukt Formel\" src=\"kreuzprodukt-vektorprodukt-formel.png\">"
+                    ],
+                    "guid": "Oj*Quou$y]",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameterform der Geradengleichung",
+                        "<img src=\"paste-e68047dd1217709c01f7be0c61c937090474bfb4.jpg\">"
+                    ],
+                    "guid": "ws{X9`fnAQ",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameterform der Ebenengleichung",
+                        "<img src=\"paste-1e21cf7c224edae9cad820a9147408a29bd7ed0f.jpg\">"
+                    ],
+                    "guid": "=ax$Uk_W5",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Parameterfreie Form der Ebenengleichung",
+                        "<img src=\"paste-6c7a9688d6ea90683ff57298a7565a82a0716a4a.jpg\">"
+                    ],
+                    "guid": "$=`DX:L#*",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der parameterfreien Form einer Ebene",
+                        "<img src=\"paste-9e4c36be5dfc6ef0311892addee9b70ad6b874cd.jpg\">"
+                    ],
+                    "guid": "LV!~YB4N]O",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Winkel Schnittpunkt zweier Ebenen berechnen",
+                        "<img src=\"paste-df18120114d19476495ec483bc650e89a50b5b43.jpg\">"
+                    ],
+                    "guid": "MV@Kz.`a]7",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der Ebene welche zwei Ebenene enthält. Welchen Punkt zum Berechnen des Skalarproduktes muss man nehmen?",
+                        "Ein Punkt der auf dieser Ebene liegt wie z.B. der Schnittpunkt"
+                    ],
+                    "guid": "O:4`R3ziFF",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt einer Geraden mit einer Ebene?",
+                        "<img src=\"paste-e1bedc2cac313d04a5673a5510d584f17c62b7ef.jpg\">"
+                    ],
+                    "guid": "jh6cKeKcrk",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt einer Geraden mit einer Ebene: Gleichung 0=0",
+                        "<img src=\"paste-a675e821d54af35dcfacd86df4daa0e9ef62cd1a.jpg\">"
+                    ],
+                    "guid": "i;ycJFLxs[",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt einer Geraden mit einer Ebene: Gleichung eindeutige Lösung",
+                        "<img src=\"paste-baba205c6ab3637216d66c63b435d9b21fd53d0a.jpg\">"
+                    ],
+                    "guid": "r:@K3<iX<C",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt einer Geraden mit einer Ebene: Gleichung unlösbar",
+                        "<img src=\"paste-63d71ab11130091e31cb0bc6de81d6598378e854.jpg\">"
+                    ],
+                    "guid": "p~Q-%~3^U,",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bestimme eine Gerade die Senkrecht zur Ebene ist und einen Punkt enthält vorgehen",
+                        "<ul><li>Punkt = Aufpunkt</li><li>Normlavektor = t*(Normalvektor)</li></ul><div>BSP:</div><div><br></div><div><img src=\"paste-08dffdc78c149f5bb669d0cdfd21cbb68c7500df.jpg\"><br></div><div><img src=\"paste-dbf8587571ba37725a8bcb17095f573332d8b928.jpg\"><br></div>"
+                    ],
+                    "guid": "iKw)%Y5W69",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt zweier Ebenen vorgehen",
+                        "<img src=\"paste-8a6f5892b7edcc762c1ab6c8f9c0c91e1f6e6c17.jpg\">"
+                    ],
+                    "guid": "kB:qQr^W0m",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt zweier Ebenen: Gleichung 0=0",
+                        "<img src=\"paste-31a3b60570b371cfff3221d44e46449985075de8.jpg\">"
+                    ],
+                    "guid": "Oq[J);a*Cb",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt zweier Ebenen: Gleichung Gleichung unlösbar",
+                        "<img src=\"paste-7f298cbd184e60595a9f0d1f3be5d3f5b4c6616e.jpg\">"
+                    ],
+                    "guid": "fCN3PD|Kn|",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Schnitt zweier Ebenen: Gleichung lösbar",
+                        "<img src=\"paste-2e01d1a21baa5e97b5c2a2f6373fa34913bdc21d.jpg\">"
+                    ],
+                    "guid": "vb=sTdFqRU",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Spur",
+                        "A11 + A22 + A33 .... = Spur"
+                    ],
+                    "guid": "A*dom<idJp",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenwerte berechnen",
+                        "<img src=\"paste-ef4bde574832fb712427655d96645e03f7054b1c.jpg\">"
+                    ],
+                    "guid": "P8;L(W#)eQ",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenvektor berechnen",
+                        "<img src=\"paste-22ae32e9049f6c75697a2cfe1491fb62d0a9867b.jpg\">"
+                    ],
+                    "guid": "NQ.~nEz{E?",
+                    "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenvektor Nomieren",
+                        "<img src=\"paste-2ecf60ba984e7461f792b56f6bf60cbd8bada08f.jpg\">"
+                    ],
+                    "guid": "tm^n[1Whg<",
                     "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
                     "tags": []
                 }
